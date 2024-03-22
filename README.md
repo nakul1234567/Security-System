@@ -31,6 +31,6 @@ We have made a hypothetical database as well which would allow you to run the co
 
 To run our program, simply run the 204face_recProject.py file. The rest of the files are more information on our project or attempts to make something even better.
 Hope you like our Project.
-Made by:- Nakul Bhalla, Keya Patel and Gunin Singh Bhatia 
+Made by:- Nakul Bhalla
 
 
